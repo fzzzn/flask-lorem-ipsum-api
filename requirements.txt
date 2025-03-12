@@ -1,0 +1,4 @@
+flask
+lorem
+flask_cors
+gunicorn
